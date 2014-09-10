@@ -43,17 +43,17 @@ describes a noun: a, an, the, two, some, good, big, red, interesting
    | stupid  | broken     | middle-age | brown | mountain | farmer  |
 
 ** post-nominal noun modifier   
-***  /English speaking classes/ begin next week.
-***  Classes for English speaking begin next week.
-***  /Milk coffee/ is my favourite drink.
-***  Coffee with milk is my favourite drink.
-***  Jacey bought /high-heeled shoes/.
-***  Jacey bought shoes with high heels.
+- /English speaking classes/ begin next week.
+- Classes for English speaking begin next week.
+- /Milk coffee/ is my favourite drink.
+- Coffee with milk is my favourite drink.
+- Jacey bought /high-heeled shoes/.
+- Jacey bought shoes with high heels.
 ** complements
-***  Angela washed the car. It is a clean car now.
-***  Angela /washed the car clean./
-***  Amy pushed the door. It is open now.
-***  Amy /pushed the door open./
+- Angela washed the car. It is a clean car now.
+- Angela /washed the car clean./
+- Amy pushed the door. It is open now.
+- Amy /pushed the door open./
 *** other examples
 | get STH ready, clean, warm|
 | cut STH short             |
@@ -64,19 +64,20 @@ describes a noun: a, an, the, two, some, good, big, red, interesting
 | push/pull STH open/closed |
 | fill STH full             |
 ** want vs find
-*** I want my hair short. My husband found my hair (too) short.
-*** I want my car cleaned. I found my car clean.
-** have vs get vs make
-*** I have my car cleaned (by somebody). 
-*** I got my car clean (although it was very dirty). /<- real adjective, so it is an active sentence/
-*** I got my car fixed (by somebody). /<- note the past participle 'fixed' as pointer for passive/
-*** I made my daughter ready for bed.
+- I want my /hair short/. My husband found my hair (too) short.
+- I want my /car cleaned/. I found my car clean.
+- I have my car /cleaned/ (by somebody). 
+- I got my car /clean/ (although it was very dirty). 
+- /here 'clean' is real adjective, so it is an active sentence/
+- I got my car fixed (by somebody). 
+- /note the past participle 'fixed' as pointer for passive/
+- I made my daughter ready for bed.
 ** do
-*** You did it right. /You did it in a way that we find correct./
-*** You do him good. /Because of you he feels good./
+- You did it right. /You did it in a way that we find correct./
+- You do him good. /Because of you he feels good./
 ** errors
-*** She heated the milk <warm> /up/ She heated the milk until it was warm.
-*** She sings the song beautiful. /beautifully/ SHe sang the song so that it was beautiful.
+- She heated the milk <warm> /up/ She heated the milk until it was warm.
+- She sings the song beautiful. /beautifully/ SHe sang the song so that it was beautiful.
 
 
     
