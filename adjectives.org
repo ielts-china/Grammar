@@ -76,8 +76,10 @@ describes a noun: a, an, the, two, some, good, big, red, interesting
 - You did it right. /You did it in a way that we find correct./
 - You do him good. /Because of you he feels good./
 ** errors
-- She heated the milk <warm> /up/ She heated the milk until it was warm.
-- She sings the song beautiful. /beautifully/ SHe sang the song so that it was beautiful.
+- She heated the milk /warm/.
+- Correct: SHe heated the milk /up/. She heated the milk until it was warm.
+- She sings the song /beautiful/. 
+- Correct: She sings the song /beautifully/. She sings the song so that it was beautiful.
 
 
     
