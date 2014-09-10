@@ -51,9 +51,9 @@ describes a noun: a, an, the, two, some, good, big, red, interesting
         Jacey bought shoes with high heels.
 ** complements
 ***     Angela washed the car. It is a clean car now.
-        Angela washed the car clean.
+***     /Angela washed the car clean./
 ***     Amy pushed the door. It is open now.
-        Amy pushed the door open.
+***     /Amy pushed the door open./
 ****    get STH ready, clean, warm
 ****    cut STH short
 ****    paint STH red
@@ -79,38 +79,3 @@ describes a noun: a, an, the, two, some, good, big, red, interesting
 
 
     
-
-* Adverb
-describes a verb or adjective: quickly, really, badly, very, well
-
-
-* Noun
-a thing or a person: dog, pen, work, city, John
-
-
-* Verb
-an action or state: to be, have, do, like, love, work, sing, can, must
-
-
-* Article
-belongs to the Adjective group, describes definite and indefinite singulars and plurals
-
-
-* Pronoun
-replaces a noun with a person: I, you, he, she, it, we, they, some, many
-
-
-* Preposition
-links a noun to another word: to, at, after, on, by
-
-
-* Conjunction
-joins sentences or words: but, because, when, and
-
-
-* Interjection
-mostly used in spoken English to express emotion: oh, well, ouch, hi
-
-
-* Determiners
-all the boys, half of the staff, twice my age, these 3 people, too good an opportunity to miss /special case/
