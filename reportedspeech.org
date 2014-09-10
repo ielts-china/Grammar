@@ -1,0 +1,144 @@
+* Reported speech
+
+Used to report someone's words.
+The opposite is called "direct speech".
+
+*** Simple Present -> Simple Past
+
+| Direct speech   | Tom says: "I stay at home."      |
+|-----------------+----------------------------------|
+| Reported speech | Tom said that he stayed at home. |
+
+*** Present Continuous -> Past continuous
+
+| Direct speech   | "I am eating."              |
+|-----------------+-----------------------------|
+| Reported speech | She told me she was eating. |
+
+*** Simple Present -> Simple Present (still valid!)
+
+| Direct speech   | "I work in Nanning."              |
+|-----------------+-----------------------------------|
+| Reported speech | He said that he works in Nanning. |
+
+*** Simple Past -> Past perfect
+
+| Direct speech   | "She killed my wife."                 |
+|-----------------+---------------------------------------|
+| Reported speech | He said that she had killed his wife. |
+
+*** Simple Past continuous -> Past perfect continuous
+
+| Direct speech   | "She was driving my car."                  |
+|-----------------+--------------------------------------------|
+| Reported speech | He said that she had been driving his car. |
+
+*** Present Perfect -> Past Perfect
+
+| Direct speech   | Sarah tells me: "Tom has always been nice to me." |
+| Reported speech | She told me that Tom had always been nice to her. |
+
+*** Past Perfect -> Past Perfect
+
+No changes!
+
+*** can/will -> could/would
+
+
+* Reported questions
+
+When we report what people say, we usually change the tense of the verbs to reflect that 
+we are reporting – not giving direct speech. This pattern is followed when we report questions 
+and there are also other important changes between direct questions and reported questions.
+
+** Yes/no questions
+
+*** Direct question: “Do you like working in teams?” 
+*** Reported question: He asked if I like working in teams.
+
+When we report yes/no questions we use ‘if’ or ‘whether’.
+
+
+*** Direct question: “Did you enjoy the party?” 
+*** Reported question: She asked me whether I’d enjoyed the party.
+
+The tense of the verb changes as it does in reported speech but we don’t use auxiliary verbs. 
+The word order is the same as in an affirmative sentence.
+
+
+** Questions with a question word
+
+*** Direct question: “What time does the train leave?” 
+*** Reported question: He asked what time the train left.
+
+When there is a question word (what, where, why, who, when, how) we use that question word 
+in the reported question but there is no auxiliary verb and the word order is like an 
+affirmative sentence (‘what time the train left’ not He asked me what time did the train leave.)
+
+Look at some more examples:
+
+
+*** Direct question: “Who did you see?”
+*** Reported question: She asked me who I’d seen.
+
+*** Direct question: “Where did you go to school?”
+*** Reported question: He asked me where I’d gone to school.
+
+*** Direct question: “Why are you crying?”
+*** Reported question: She asked him why he was crying.
+
+Notice that the reported questions do not have a question mark at the end.
+
+
+** Questions without question word (whether/if)
+
+*** Direct question: "Do you speak English?"
+*** Indirect question: He asked me whether I spoke English.
+
+
+** Requests
+
+No backshift is needed, simply use "to + infinitive"
+
+*** Direct request: She said: "Say hello to your mum."
+*** She asked me to say hello to my mum.
+
+For negative requests, simply use "not to + infinitive"
+
+*** Direct request: She said: "Please don't smoke here."
+*** Indirect request: She told me not to smoke there.
+
+Attention when using "Let's"
+
+*** Direct suggestion: "Let's go home!"
+*** Indirect form: He suggested going home.
+*** Indirect form: He suggested that we should go home.
+
+
+** Indirect questions
+
+Similar to reported questions are indirect questions.
+
+*** Can you tell me what time the train leaves? 
+NOT Can you tell me what time does the train leave?
+*** I’d love to know what he said to her. 
+NOT I’d love to know what did he say to her.
+ 
+
+
+** change of time and place
+
+| direct    | indirect       |
+|-----------+----------------|
+| here      | there          |
+| now       | then           |
+| tomorrow  | the next day   |
+| yesterday | the day before |
+| will      | would          |
+| can       | could          |
+
+
+* Vocabulary
+
+say, tell sb, advise sb, inform sb, request sb, urge sb, suggest sb, ask sb
+
