@@ -1,9 +1,8 @@
-Grammar Overview
-
-Parts of speech
+* Grammar Overview: Parts of speech
 
 
-* Adjective
+* Adjectives
+
 describes a noun: a, an, the, two, some, good, big, red, interesting
 
 ** Suffixes
@@ -11,60 +10,72 @@ describes a noun: a, an, the, two, some, good, big, red, interesting
    |-------------+-------+---------+----------------------+-------+--------+-------+-----+---------+------|
    | relating to |       | full of | having the nature of |       | origin |       |     | quality | like |
 *** from nouns
-**** nature -> natural, money -> monetary, beauty -> beautiful, child -> childish, luxury -> luxurious
+****   nature -> natural
+****   money -> monetary
+****   beauty -> beautiful 
+****   child -> childish
+****   luxury -> luxurious
 *** from verbs
-**** love -> lovable, create -> creative, expect -> expectant, interest -> interested/interesting, urge -> urgent
+****   love -> lovable 
+****   create -> creative
+****   expect -> expectant
+****   interest -> interested; interesting 
+****   urge -> urgent
 *** -ic vs -ical
-**** classic (old style) -> classical (cultural epoch), comic (arts) -> comical (funny), 
-     economic (science) -> economical (inexpensive), electric (particular machine) -> electrical (general), 
-     historic (recorded in the past) -> historical (worth to be mentioned)
+****   classic (old style) -> classical (cultural epoch), 
+****   comic (arts) -> comical (funny), 
+****   economic (science) -> economical (inexpensive), 
+****   electric (particular machine) -> electrical (general), 
+****   historic (recorded in the past) -> historical (worth to be mentioned)
 *** similar but different
-**** awesome / awful
-     dependent / dependable
-     laughing / laughable
-     light / lightened (hair)
-     loving / lovable
-     fun / funny
-     select (exclusive) / selected (particular) / selective (picky)
+****   awesome / awful
+****   dependent / dependable
+****   laughing / laughable
+****   light / lightened (hair)
+****   loving / lovable
+****   fun / funny
+****   select (exclusive) / selected (particular) / selective (picky)
+
 ** multiple adjective order
    | opinion | appearance | age        | color | origin   | type    |
    | cute    | round      | old        | red   | Chinese  | envelop |
    | pretty  | little     | young      | green | plastic  | flower  |
    | stupid  | broken     | middle-age | brown | mountain | farmer  |
+
 ** post-nominal noun modifier   
 *** English speaking classes begin next week.
-    Classes for English speaking begin next week.
-*** Milk coffee is my favourite drink.
-    Coffee with milk is my favourite drink.
-*** Jacey bought high-heeled shoes.
-    Jacey bought shoes with high heels.
+        Classes for English speaking begin next week.
+***     Milk coffee is my favourite drink.
+        Coffee with milk is my favourite drink.
+***     Jacey bought high-heeled shoes.
+        Jacey bought shoes with high heels.
 ** complements
-*** Angela washed the car. It is a clean house now.
-    Angela washed the car clean.
-*** Amy pushed the door. It is open now.
-    Amy pushed the door open.
-*** get STH ready, clean, warm
-    cut STH short
-    paint STH red
-    shoot SB dead
-    wash STH/SB clean
-    wipe STH dry/clean
-    push/pull STH open/closed
-    fill STH full
+***     Angela washed the car. It is a clean car now.
+        Angela washed the car clean.
+***     Amy pushed the door. It is open now.
+        Amy pushed the door open.
+****    get STH ready, clean, warm
+****    cut STH short
+****    paint STH red
+****    shoot SB dead
+****    wash STH/SB clean
+****    wipe STH dry/clean
+****    push/pull STH open/closed
+****    fill STH full
 *** want vs find
-    I want my hair short. My husband found my hair (too) short
-    I want my car cleaned. I found my car clean.
+****    I want my hair short. My husband found my hair (too) short.
+****    I want my car cleaned. I found my car clean.
 *** have vs get vs make
-    I have my car cleaned (by somebody). 
-    I got my car clean (although it was very dirty). /<- real adjective, so it is an active sentence/
-    I got my car fixed (by somebody). /<- note the past participle 'fixed' as pointer for passive/
-    I made my daughter ready for bed.
+****    I have my car cleaned (by somebody). 
+****    I got my car clean (although it was very dirty). /<- real adjective, so it is an active sentence/
+****    I got my car fixed (by somebody). /<- note the past participle 'fixed' as pointer for passive/
+****    I made my daughter ready for bed.
 *** do
-    You did it right. /You did it in a way that we find correct./
-    You do him good. /Because of you he feels good./
+****    You did it right. /You did it in a way that we find correct./
+****    You do him good. /Because of you he feels good./
 *** errors
-    She heated the milk <warm> /up/ She heated the milk until it was warm.
-    She sings the song beautiful. /beautifully/ SHe sang the song so that it was beautiful.
+****    She heated the milk <warm> /up/ She heated the milk until it was warm.
+****    She sings the song beautiful. /beautifully/ SHe sang the song so that it was beautiful.
 
 
     
